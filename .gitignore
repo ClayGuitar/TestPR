@@ -1,0 +1,32 @@
+# old skool
+.svn
+
+# General
+*.swp
+*.swo
+*.rbo
+*.gem
+.DS_Store
+.rbenv-version
+.rbx/
+xcuserdata
+# Pods.xcodeproj
+# *.xcworkspace
+DerivedData
+*.hmap
+*.ipa
+*.xcuserstate
+
+### Xcode ###
+build/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+*.xccheckout
+*.moved-aside
+
